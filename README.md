@@ -1,4 +1,4 @@
-# PHP4ApplicationsCompilatin
+# PHP4ApplicationsCompilation
 This is the new location of my PHP4Application code generator.
 
 The compilation will contain not only the XSLT template that is responsible to generate P4A based code, but also an installer per platform to enable quick setup and getting started.
